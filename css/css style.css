@@ -5,7 +5,7 @@ body {
 }
 
 .container-fluid {
-  margin-bottom: 8%;
+  margin-bottom: 8% 8% 5px 8%;
 }
 
 
@@ -343,7 +343,20 @@ a:hover {
 /* bottom-container */
 .bottom-container {
   background-color: #b1e8ed;
-  padding: 50px 0 20px;
+  padding: 50px 0 5px 0;
+}
+
+#Con-me{
+  width: auto;
+  margin-bottom: 50px;
+  display: inline-block;
+  align-items: center;
+}
+#Project-App{
+  width: auto;
+  margin-bottom: 50px;
+  display: inline-block;
+  align-items: center;
 }
 
 #copyright {
